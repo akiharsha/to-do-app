@@ -1,0 +1,13 @@
+# Ignore SQLite database
+tasks.db
+
+# Python cache
+__pycache__/
+*.pyc
+
+# CSV exports (optional)
+*.csv
+
+# OS-specific
+.DS_Store
+Thumbs.db

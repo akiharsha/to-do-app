@@ -1,0 +1,4 @@
+tkcalendar
+ttkbootstrap
+Pillow
+Babel
