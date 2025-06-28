@@ -40,3 +40,8 @@ No fluff. No distractions. Just you and your tasks.
 ```bash
 git clone https://github.com/akiharsha/to-do-app
 cd to-do-app
+
+🤝 Let’s Connect
+Feel free to reach out or follow me for more projects:
+
+GitHub: @akiharsha
